@@ -30,8 +30,8 @@ npm install
 npx expo start --tunnel
 ```
 
-QR コードが表示されるので、iOS の場合はカメラアプリで、Android では Expo Go アプリでスキャンしてください。
+QRコードが表示されるので、カメラアプリスキャンしてください。
 
 ## 機能説明
 
-このデモアプリは、Three.js ライブラリで作成した 3D オブジェクトを WebView で表示します。
+このデモアプリは、Three.js ライブラリで作成した3DオブジェクトをWebViewで表示します。
